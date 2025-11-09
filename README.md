@@ -96,6 +96,7 @@ plt.show()
 
 #### SOBEL X:
 <img width="816" height="289" alt="image" src="https://github.com/user-attachments/assets/778edeb6-eaf6-46c7-bc53-d1067deda29c" />
+<img width="639" height="230" alt="download" src="https://github.com/user-attachments/assets/b0210d50-5af8-415f-bf5a-b5a315b1b375" />
 
 #### SOBEL Y:
 <img width="818" height="283" alt="image" src="https://github.com/user-attachments/assets/f0b7bdbe-6294-4977-8bfb-d6ad8f5a0ca3" />
