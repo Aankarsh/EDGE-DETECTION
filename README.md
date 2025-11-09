@@ -27,13 +27,12 @@ Using Laplacian operator from cv2,detect the edges of the image and Using Canny 
 
 ## Program:
 ```
-Developed by : ALDRIN S
-Reg no : 212223240005
-
+## NAME : AANKARSH J
+## REG.NO: 212223233001
 import cv2
 import matplotlib.pyplot as plt
-img=cv2.imread("bui.png")
-gray=cv2.cvtColor(img,cv2.COLOR_BGR2GRAY)
+img=cv2.imread("suflower.png")
+gray=cv2.cvtColor(image,cv2.COLOR_BGR2GRAY)
 gray = cv2.GaussianBlur(gray,(3,3),0)
 sobelx = cv2.Sobel(gray,cv2.CV_64F,1,0,ksize=5)
 plt.figure(figsize=(8,8))
@@ -98,10 +97,10 @@ plt.show()
 <img width="639" height="230" alt="download" src="https://github.com/user-attachments/assets/b0210d50-5af8-415f-bf5a-b5a315b1b375" />
 
 #### SOBEL Y:
-<img width="818" height="283" alt="image" src="https://github.com/user-attachments/assets/f0b7bdbe-6294-4977-8bfb-d6ad8f5a0ca3" />
+<img width="639" height="230" alt="download" src="https://github.com/user-attachments/assets/02597d66-5394-47bc-b64f-c3a48c895481" />
 
 #### SOBEL XY:
-<img width="835" height="285" alt="image" src="https://github.com/user-attachments/assets/b16274ef-9c6c-445a-a219-ec7044102b27" />
+<img width="639" height="230" alt="download" src="https://github.com/user-attachments/assets/0b8764f1-967b-4cac-b759-eeb13ba88ebe" />
 
 ### LAPLACIAN EDGE DETECTOR
 <img width="848" height="278" alt="image" src="https://github.com/user-attachments/assets/2badba1e-a235-4837-ba60-dab68c1c223e" />
