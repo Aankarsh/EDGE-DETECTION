@@ -87,6 +87,9 @@ plt.title("Canny")
 plt.axis("off")
 plt.show()
 
+Output:
+SOBEL EDGE DETECTOR
+SOBEL X:
 
 
 ## Result:
