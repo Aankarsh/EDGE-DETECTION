@@ -93,7 +93,7 @@ plt.show()
 
 <img width="639" height="230" alt="download" src="https://github.com/user-attachments/assets/435db682-479e-4995-94ba-36284d1d6453" />
 
-
+<img width="816" height="289" alt="image" src="https://github.com/user-attachments/assets/778edeb6-eaf6-46c7-bc53-d1067deda29c" />
 <img width="639" height="230" alt="download" src="https://github.com/user-attachments/assets/913a7129-e6fb-4e15-86af-1ebd67fbf339" />
 
 ## Result:
