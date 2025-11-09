@@ -1,6 +1,6 @@
 # EX 6 EDGE-DETECTION
-## Name: ALDRIN.S
-## Reg.no: 212223240005
+## NAME : AANKARSH J
+## REG.NO: 212223233001
 
 ## Aim:
 To perform edge detection using Sobel, Laplacian, and Canny edge detectors.
