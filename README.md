@@ -155,6 +155,7 @@ plt.show()
 
 
 
+<img width="639" height="230" alt="download" src="https://github.com/user-attachments/assets/435db682-479e-4995-94ba-36284d1d6453" />
 
 
 
