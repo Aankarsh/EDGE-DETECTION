@@ -91,8 +91,6 @@ plt.show()
 ### SOBEL EDGE DETECTOR
 ### SOBEL X:
 
-<img width="639" height="230" alt="download" src="https://github.com/user-attachments/assets/3e6e7ceb-47c4-4f1a-b6fb-d7de5ae70719" />
-<img width="639" height="230" alt="download" src="https://github.com/user-attachments/assets/3171e9e8-be2e-4ab9-a610-2a1cc6a6f927" />
 
 
 ## Result:
