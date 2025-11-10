@@ -1,7 +1,6 @@
-## EX 6 EDGE-DETECTION
+# Exp-6- Record-EDGE DETECTION 
 ## NAME : AANKARSH J
 ## REG.NO: 212223233001
-
 ## Aim:
 To perform edge detection using Sobel, Laplacian, and Canny edge detectors.
 
@@ -27,9 +26,10 @@ Using Laplacian operator from cv2,detect the edges of the image and Using Canny 
 
 ## Program:
 ```
-## Exp - 6 EDGE-DETECTION ##
+## Exp-6- Record-EDGE DETECTION ##
 ## NAME : AANKARSH J ##
 ## REG.NO: 212223233001 ##
+
 import cv2
 import matplotlib.pyplot as plt
 img=cv2.imread("suflower.png")
