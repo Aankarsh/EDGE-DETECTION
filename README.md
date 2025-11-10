@@ -1,4 +1,4 @@
-# EX 6 EDGE-DETECTION
+## EX 6 EDGE-DETECTION
 ## NAME : AANKARSH J
 ## REG.NO: 212223233001
 
@@ -27,8 +27,9 @@ Using Laplacian operator from cv2,detect the edges of the image and Using Canny 
 
 ## Program:
 ```
-## NAME : AANKARSH J
-## REG.NO: 212223233001
+## Exp - 6 EDGE-DETECTION ##
+## NAME : AANKARSH J ##
+## REG.NO: 212223233001 ##
 import cv2
 import matplotlib.pyplot as plt
 img=cv2.imread("suflower.png")
