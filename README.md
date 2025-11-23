@@ -31,11 +31,11 @@ Using Laplacian operator from cv2,detect the edges of the image and Using Canny 
 ## REG.NO: 212223233001 ##
 
 import cv2
-import matplotlib.pyplot as plt
-img=cv2.imread("suflower.png")
-gray=cv2.cvtColor(image,cv2.COLOR_BGR2GRAY)
-gray = cv2.GaussianBlur(gray,(3,3),0)
-sobelx = cv2.Sobel(gray,cv2.CV_64F,1,0,ksize=5)
+from matplotlib import pyplot as plt
+img = cv2.imread('sunflower.png') 
+gray = cv2.cvtColor(img, cv2.COLOR_BGR2GRAY) 
+gray = cv2.GaussianBlur(gray, (3, 3), 0)
+sobelx = cv2.Sobel(gray, cv2.CV_64F, 1, 0, ksize=5)
 plt.figure(figsize=(8,8))
 plt.subplot(1,2,1)
 plt.imshow(gray)
@@ -91,6 +91,7 @@ plt.title("Canny")
 plt.axis("off")
 plt.show()
 ```
+
 ## Output:
 ### SOBEL EDGE DETECTOR
 
